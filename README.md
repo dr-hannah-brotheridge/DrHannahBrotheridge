@@ -1,13 +1,13 @@
 # Hi, I'm Dr. Hannah Brotheridge 👋
 ### Clinical Product Creator
 
-Having an MBChB background and a few years of experience as a doctor; I now design, architect, and evaluate AI systems and applications for healthcare.
-I graduated from the University of Auckland as an undergraduate and have worked for Te Whatu Ora Waitaha as a house officer since 2024.
+I'm a doctor (MBChB) who stepped back from full-time clinical work to ask a harder question: how do you build a life that actually fits, after a decade spent building one you thought you were supposed to want?
+Right now that looks like writing honestly about medicine and identity, and building health-tech tools aimed at giving patients more autonomy over their own care. The technical detail is below — the tools, the stack, the engineering — my products.
 
 ### 🛠️ The Doctor-Builder Stack
 - **Languages & Frameworks:** Node.js, JavaScript, HTML5, CSS3, Tailwind CSS.
 - **Database & DevOps:** Supabase (PostgreSQL), Row-Level Security (RLS), Git/GitHub CI/CD, Vercel.
-- **AI Orchestration:** Claude/Cline, Anthropic API, Custom RAG architectures, Multi-state machine routing, Prompt Engineering & Optimization.
+- **AI Orchestration:** Claude/Cline, Anthropic API, Custom RAG architectures, Multi-state machine routing, Prompt Engineering using my own clinical knowledge.
 
 ## ScriptPal NZ
 - **https://scriptpal.co.nz/**
@@ -28,19 +28,21 @@ I graduated from the University of Auckland as an undergraduate and have worked 
 Proven experience scaling products from rapid no-code prototyping (Glide/FlutterFlow) to custom-coded Node.js applications using LLM assistance (Claude Code and Cline).
 
 ## AI & LLM Orchestration
-- **Prompt Engineering & Safety:** Development of complex, state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking, and safety-critical escalation and/or de-escalation paths.
-- **LLM Integration:** Orchestrating API integrations with Anthropic (Claude) to create persistent, memory-augmented chatbots that maintain longitudinal health context.
+- **Prompt Engineering & Safety:** Development of state-based "Clinical Risk Engines" using multi-state prompt architecture to enforce strict guardrails, diagnostic locking/avoidance, and safety-escalation and/or de-escalation paths.
+- **LLM Integration:** API integrations with Anthropic (Claude) to create persistent, memory-augmented chatbots that maintain longitudinal health context.
 - **Clinical Safety Logic:** Implementing "Anti-Over-Escalation" and "Source-of-Truth" protocols to ensure LLM behavior remains safe in high-stakes environments.
 - **LLM Cost Optimisation Techniques** Model cascading/Right-sizing for tasks, Context window management, Frequency Throttling/Batching and Prompt Caching. 
 
 ## Domain Expertise
 
-- **Clinical AI Architecture:** Bridging the gap between clinical safety protocols and technical system design.
-- **Health Tech Product Design:** Translating complex medical workflows (triage, history taking, medication management) into intuitive, patient-facing UX.
+- **Clinical AI Architecture:** Bridging the gap between clinical medicine, regulations and digital technology. 
+- **Health Tech Product Design:** Translating complex medical workflows (triage, history taking, medication management) into patient-facing UX.
 
 ## Active Projects
 - **SignalHealth PWA:** A highly bounded, deterministic multi-state prompt engine for user health patterns and tracking and efficient doctor check-ups.
+Classed as a SaMD
 - **ScriptPal NZ PWA:** A light, user-centric progressive web app for patient-friendly medication compliance, information and collation.
+Classed as a SaaS
 
 ## My Aims
 - **Patient Autonomy and Understanding** I aim to improve the understanding of an individual's own health by providing access to patient-centred language,

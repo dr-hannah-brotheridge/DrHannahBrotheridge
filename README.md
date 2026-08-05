@@ -1,7 +1,7 @@
 # Hi, I'm Dr. Hannah Brotheridge 👋
 ### Clinical Product Creator
 
-I'm a doctor (MBChB) who stepped back from full-time clinical work to ask a harder question: how do you build a life that actually fits, after a decade spent building one you thought you were supposed to want?
+I'm a doctor (MBChB) who stepped back from full-time clinical work to try something a bit different.
 Right now that looks like writing honestly about medicine and identity, and building health-tech tools aimed at giving patients more autonomy over their own care. The technical detail is below — the tools, the stack, the engineering — my products.
 
 ### 🛠️ The Doctor-Builder Stack
